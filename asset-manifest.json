@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bilkentacm/static/css/main.d5f022cd.css",
+    "main.js": "/bilkentacm/static/js/main.ec181cdd.js",
+    "static/media/nihat.jpg": "/bilkentacm/static/media/nihat.82deb62a3c19ffd1c77b.jpg",
+    "static/media/acmtiny.PNG": "/bilkentacm/static/media/acmtiny.62a0125d3326b83b8ad7.PNG",
+    "static/media/BerkantAkin.png": "/bilkentacm/static/media/BerkantAkin.c801d03c1ffc9985a0e4.png",
+    "static/media/MiracBasaran.png": "/bilkentacm/static/media/MiracBasaran.894f4f236c2bf7e66f9f.png",
+    "static/media/acmlogo.PNG": "/bilkentacm/static/media/acmlogo.2158807f311d12d98e66.PNG",
+    "static/media/emre.jpg": "/bilkentacm/static/media/emre.df1d45fa2f76094703c1.jpg",
+    "static/media/elif.jpg": "/bilkentacm/static/media/elif.6e9f0a0d26f625074f2c.jpg",
+    "static/media/acwic.jpg": "/bilkentacm/static/media/acwic.739ae92bbdc3b7e83ffb.jpg",
+    "static/media/inzva.jpg": "/bilkentacm/static/media/inzva.9ff57dee6891ac99fbb2.jpg",
+    "static/media/halil.jpg": "/bilkentacm/static/media/halil.9d586d8fff184d29c922.jpg",
+    "static/media/berkan.jpg": "/bilkentacm/static/media/berkan.b316adfac5c142e4ae52.jpg",
+    "static/media/atakan.jpg": "/bilkentacm/static/media/atakan.82aa9ec6d740bd106c96.jpg",
+    "static/media/tuğba.jpg": "/bilkentacm/static/media/tuğba.cb4a4dbc443d180fa1f0.jpg",
+    "static/media/eventsbck.jpg": "/bilkentacm/static/media/eventsbck.bc05302c534c36697eb7.jpg",
+    "index.html": "/bilkentacm/index.html",
+    "main.d5f022cd.css.map": "/bilkentacm/static/css/main.d5f022cd.css.map",
+    "main.ec181cdd.js.map": "/bilkentacm/static/js/main.ec181cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f022cd.css",
+    "static/js/main.ec181cdd.js"
+  ]
+}
