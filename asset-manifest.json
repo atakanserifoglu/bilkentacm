@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bilkentacm/static/css/main.d5f022cd.css",
-    "main.js": "/bilkentacm/static/js/main.ec181cdd.js",
+    "main.js": "/bilkentacm/static/js/main.95949996.js",
     "static/media/nihat.jpg": "/bilkentacm/static/media/nihat.82deb62a3c19ffd1c77b.jpg",
     "static/media/acmtiny.PNG": "/bilkentacm/static/media/acmtiny.62a0125d3326b83b8ad7.PNG",
     "static/media/BerkantAkin.png": "/bilkentacm/static/media/BerkantAkin.c801d03c1ffc9985a0e4.png",
@@ -18,10 +18,10 @@
     "static/media/eventsbck.jpg": "/bilkentacm/static/media/eventsbck.bc05302c534c36697eb7.jpg",
     "index.html": "/bilkentacm/index.html",
     "main.d5f022cd.css.map": "/bilkentacm/static/css/main.d5f022cd.css.map",
-    "main.ec181cdd.js.map": "/bilkentacm/static/js/main.ec181cdd.js.map"
+    "main.95949996.js.map": "/bilkentacm/static/js/main.95949996.js.map"
   },
   "entrypoints": [
     "static/css/main.d5f022cd.css",
-    "static/js/main.ec181cdd.js"
+    "static/js/main.95949996.js"
   ]
 }
